@@ -1,0 +1,41 @@
+!
+! Title: AWAvenue Ads Rule
+! Description: Use Adblock syntax to fight against various advertising SDKs in Android applications from the network level , prevent them from loading.
+! Version: 1.0.14.58
+! Homepage: https://awavenue.top/
+! Last modified: 2024-10-09T04:07:17.914Z
+!
+! Compiled by @adguard/hostlist-compiler v1.0.26
+!
+!
+! Source name: AWAvenue Ads Rule
+! Source: https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt
+!
+!Title: AWAvenue Ads Rule
+!--------------------------------------
+!Total lines: 688
+!Version: 1.5.3-release
+
+!Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
+!License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
+
+
+||afs.googlesyndication.com^
+||analytics.google.com^
+||click.googleanalytics.com^
+||notify.bugsnag.com^
+||sessions.bugsnag.com^
+||app.bugsnag.com^
+||browser.sentry-cdn.com^
+||app.getsentry.com^
+||ads-api.twitter.com^
+||ads.pinterest.com^
+||ads-api.tiktok.com^
+||ads-sg.tiktok.com^
+||ads-api.tiktok.com^
+||business-api.tiktok.com^
+||ads.tiktok.com^
+||ads.yahoo.com^
+||log.fc.yahoo.com^
+||appmetrica.yandex.ru^
+||metrika.yandex.ru^
